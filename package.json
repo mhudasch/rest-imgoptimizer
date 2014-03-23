@@ -8,11 +8,11 @@
     "email": "martin.hudasch@live.de"
   },
   "dependencies": {
-    "express": ">=3.4.4",
+    "express": "*",
     "jade": "*",
     "stylus": "*",
-    "commander": ">=2.1.0",
-    "imgoptimizer" : "git+https://github.com/thecodingwhiteknight/rest-imgoptimizer.git"
+    "commander": "*",
+    "imgoptimizer" : "git://github.com/thecodingwhiteknight/imgoptimizer.git#master"
   },
   "private": true,
   "license": "MIT",

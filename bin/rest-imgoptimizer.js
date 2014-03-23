@@ -12,7 +12,7 @@ var fs = require('fs')
   , resolve = path.resolve
   , exists = fs.existsSync || path.existsSync
   , join = path.join
-  , server = require('../');
+  , server = require('../lib/rest-imgoptimizer').RestImgoptimizer;
 
     // options
 
