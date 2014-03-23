@@ -1,7 +1,7 @@
 ﻿## rest-imgoptimizer ##
 Author: Martin Hudasch
 
-Der rest-imgoptimizer ist ein node webservice-wrapper um das [imgoptimizer](http://fb-repository/gitblit/summary/?r=node/imgoptimizer.git) modul.
+Der rest-imgoptimizer ist ein node webservice-wrapper um das [imgoptimizer](https://github.com/thecodingwhiteknight/rest-imgoptimizer.git) modul.
 
 
 ### Vorraussetzungen ###
