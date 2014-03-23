@@ -1,0 +1,22 @@
+{
+  "name": "rest_imgoptimizer",
+  "version": "0.1.0",
+  "description": "rest-imgoptimizer",
+  "main": "app.js",
+  "author": {
+    "name": "Martin Hudasch",
+    "email": "martin.hudasch@live.de"
+  },
+  "dependencies": {
+    "express": ">=3.4.4",
+    "jade": "*",
+    "stylus": "*",
+    "commander": ">=2.1.0",
+    "imgoptimizer" : "git+https://github.com/thecodingwhiteknight/rest-imgoptimizer.git"
+  },
+  "private": true,
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8"
+  }
+}
